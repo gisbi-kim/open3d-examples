@@ -20,7 +20,6 @@ cmake -DBUILD_EIGEN3=ON  \
       ..
 make -j
 make install
-
 ```
 
 
